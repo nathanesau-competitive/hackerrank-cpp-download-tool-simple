@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hackerrank-cpp-download-tool-simple
 
 ## Dependencies
@@ -35,3 +36,8 @@ Output gets written to ``output.txt`` (some tweaks to ``main.cpp`` may be needed
 The clean script is used to delete the downloaded files from the current directory. Clean should be done before downloading a new challenge.
 
     python clean.py
+=======
+Examples:
+
+    python download.py "sherlock-and-anagrams"
+>>>>>>> dabd3e370e6b0dda7244fbb91112d6de2fb56cee

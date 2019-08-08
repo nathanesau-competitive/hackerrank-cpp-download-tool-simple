@@ -5,6 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
+<<<<<<< HEAD
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
@@ -12,6 +13,8 @@
             "console": "integratedTerminal"
         },
         {
+=======
+>>>>>>> dabd3e370e6b0dda7244fbb91112d6de2fb56cee
             "name": "(Windows) Launch",
             "type": "cppvsdbg",
             "request": "launch",
@@ -23,4 +26,8 @@
             "externalConsole": false
         }
     ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> dabd3e370e6b0dda7244fbb91112d6de2fb56cee
